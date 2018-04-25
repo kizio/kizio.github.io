@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kiz.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kiziology
 instagram_username: kiziology
-github_username:  kizio
+github_username: kizio
 
 # Build settings
 markdown: kramdown
