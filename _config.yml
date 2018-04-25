@@ -28,9 +28,11 @@ code_url: https://github.com/kizio/kizio.github.io
 
 # Social media usernames
 facebook_username: kiziology
-github_username: kizio
 instagram_username: kiziology
 twitter_username: kiziology
+
+# Github repository
+github_username: kizio
 
 # Build settings
 markdown: kramdown
